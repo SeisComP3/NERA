@@ -2,7 +2,7 @@
 scxxlmag v1.0RC1 - README
 ========================
 :Author: Javier Quinteros <javier@gfz-potsdam.de>, Joachim Saul <saul@gfz-potsdam.de>
-:Info: The User Guide can be downloaded from <https://github.com/SeisComP3/NERA/scxxlmag/scxxlmag.pdf>.
+:Info: The User Guide can be downloaded from <https://github.com/SeisComP3/NERA/raw/master/scxxlmag.pdf>.
 :Version: 1.0-RC1
 
 Functionality
